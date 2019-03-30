@@ -4,9 +4,9 @@ A personal reading list for papers and resources that seem interesting.
 ## Topics
 Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)  
 Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Genetic%20Algorithms.md)  
-Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural_Art.md)  
+Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural%20Art.md)  
 NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
-Robot Control [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Robot_Control.md)  
+Robot Control [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Robot%20Control.md)  
 Surveys [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Surveys.md)
 
 ## Other Lists  
