@@ -1,5 +1,14 @@
 # Computer Vision
 
+## Hand Recognition
+Paper | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+HAND SEGMENTATION USING SKIN COLOR AND BACKGROUND INFORMATION | 7.2012 | W. Wang, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6359584) | 🔜
+Hand segmentation with structured convolutional learning | 2014 | N. Neverova, et al. | [[pdf]](https://nneverova.github.io/npapers/accv2014.pdf) | 🔜
+Deep Learning Based Hand Detection in Cluttered Environment Using Skin Segmentation | 2017 | K. Roy, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8265291) | 🔜
+Deep Learning for hand segmentation in complex backgrounds | 2018 | A. Ungureanu, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326319) | 🔜
+Towards Deep Learning based Hand Keypoints Detection for Rapid Sequential Movements from RGB Images | 4.2018 | S. Gattupalli, et al. | [[pdf]](https://arxiv.org/pdf/1804.01174.pdf) | 🔜
+
 ## Human Action Recognition
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
