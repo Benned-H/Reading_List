@@ -8,6 +8,7 @@ Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master
 Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
 Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural%20Art.md)  
 NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
+Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
 Robot Control [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Robot%20Control.md)  
 Surveys [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Surveys.md)
 
