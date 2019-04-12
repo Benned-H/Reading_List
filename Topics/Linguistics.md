@@ -1,5 +1,10 @@
 # Linguistics
 
+## General Resources
+Title | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses | 5.2015 | Max Planck Institute for Evolutionary Anthropology | [[pdf]](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) | 🔜
+
 ## Computational Linguistics Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
