@@ -6,6 +6,7 @@ Computer Vision [[Link]](https://github.com/Benned-H/Reading_List/blob/master/To
 Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)  
 Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Genetic%20Algorithms.md)  
 Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
+Math [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Mathematics.md)  
 Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural%20Art.md)  
 NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
 Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
