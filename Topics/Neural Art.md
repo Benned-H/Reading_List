@@ -1,4 +1,5 @@
 # Neural Art
+Also see *[generative models](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)*.
 
 ## Papers
 Paper | M.Year | Author(s) | Link(s) | Read? [Notes]
