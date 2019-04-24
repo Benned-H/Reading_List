@@ -1,5 +1,5 @@
 # Reading List
-A personal reading list for papers and resources that seem interesting.
+A personal reading list for papers and resources I'd like to read in the future.
 
 ## Topics
 Computer Vision [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Computer%20Vision.md)  
