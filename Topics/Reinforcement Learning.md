@@ -10,3 +10,4 @@ Spinning Up in Deep RL | 2018 | OpenAI | [[Intro]](https://spinningup.openai.com
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement | 5.2017 | V. Firoiu, et al. | [[pdf]](https://arxiv.org/pdf/1702.06230.pdf) | 🔜
+Learning Latent Dynamics for Planning from Pixels | 2.2019 | D. Hafner, et al. | [[pdf]](https://arxiv.org/pdf/1811.04551.pdf) | 🔜
