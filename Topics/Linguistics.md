@@ -15,3 +15,4 @@ Gender Bias in Coreference Resolution | 6.2018 | R. Rudinger, et al. | [[pdf]](h
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Thematic proto-roles and argument selection | 9.1991 | D. Dowty | [[pdf]](https://muse.jhu.edu/article/452429/pdf) | 🔜
+Theta Roles | 2004 | R. DeArmond | [[pdf]](http://www.sfu.ca/person/dearmond/322/Theta-Roles.fm.pdf) | 🔜
