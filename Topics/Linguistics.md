@@ -11,6 +11,11 @@ Paper | M.Year | Author(s) | Link | Read? [Notes]
 Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods | 4.2018 | J. Zhao, et al. | [[pdf]](https://arxiv.org/pdf/1804.06876.pdf) | 🔜
 Gender Bias in Coreference Resolution | 6.2018 | R. Rudinger, et al. | [[pdf]](https://aclweb.org/anthology/N18-2002) | 🔜
 
+## Pragmatics Papers
+Paper | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+‘Deixis and Pragmatics’ for Handbook of Pragmatics | ??? | S. Levinson | [[pdf]](https://pure.mpg.de/rest/items/item_59489_2/component/file_59490/content) | 🔜
+
 ## Syntax Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
