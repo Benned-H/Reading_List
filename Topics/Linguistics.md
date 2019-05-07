@@ -4,6 +4,7 @@
 Title | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses | 5.2015 | Max Planck Institute for Evolutionary Anthropology | [[pdf]](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) | 🔜
+HG3051: Corpus Linguistics | 2018 | F. Bond, Nanyang Technological University | [[site]](http://compling.hss.ntu.edu.sg/courses/hg3051/) | 🔜
 
 ## Computational Linguistics Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
