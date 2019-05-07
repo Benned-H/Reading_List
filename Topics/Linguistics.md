@@ -27,3 +27,7 @@ Theta Roles | 2004 | R. DeArmond | [[pdf]](http://www.sfu.ca/person/dearmond/322
 Resource | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 "Data is" vs. "Data are" | ??? | J. Spirko | [[site]](https://www.lehigh.edu/~jas8/data.html) | 🔜
+
+Ongoing Questions:
+* What feature(s) help explain the uses of data as singular or plural?
+* Are the features for less/few or more/much similar?
