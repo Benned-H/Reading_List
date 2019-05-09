@@ -4,6 +4,7 @@
 Title | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition | 6.2007 | D. Jurafsky, et al. | [[2nd]](http://santini.se/teaching/ml/2014/JurafskyMartinSpeechAndLanguageProcessing2ed_draft%202007.pdf) [[3rd]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | 🔜
+CS224U: Natural Language Understanding | 5.2019 | B. MacCartney, et al. | [[site]](http://web.stanford.edu/class/cs224u/#) | 🔜
 
 ## Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
