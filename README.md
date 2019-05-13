@@ -2,15 +2,21 @@
 A personal reading list for papers and resources I'd like to read in the future.
 
 ## Topics
+*Machine Learning-related*  
 Computer Vision [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Computer%20Vision.md)  
 Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)  
 Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Genetic%20Algorithms.md)  
-Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
-Math [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Mathematics.md)  
 Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural%20Art.md)  
-NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
 Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
 Robot Control [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Robot%20Control.md)  
+
+*Linguistics-related*  
+Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
+NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
+
+*Other Topics*  
+Math [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Mathematics.md)  
+Rendering [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Rendering.md)  
 Surveys [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Surveys.md)
 
 ## Other Lists  
