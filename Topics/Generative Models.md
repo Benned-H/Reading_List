@@ -8,4 +8,4 @@ Improved Techniques for Training GANs | 2016 | T. Salimans, et al. | [[pdf]](htt
 Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis | 2019 | Y. Guo, et al. | [[pdf]](https://arxiv.org/pdf/1903.11250v1.pdf) | 🔜
 
 ## Music Generation
-See [here]()
+See [here](https://github.com/Benned-H/Reading_List/blob/master/Topics/Sequential%20Models.md#lstms-and-music-generation)
