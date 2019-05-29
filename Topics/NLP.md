@@ -13,3 +13,8 @@ Weighted DAG Automata for Semantic Graphs | 5.2017 | D. Chiang, et al. | [[pdf]]
 Attention Is All You Need | 12.2017 | A. Vaswani, et al. | [[pdf]](https://arxiv.org/pdf/1706.03762.pdf) | 🔜
 Neural Transition-based Syntactic Linearization | 2018 | L. Song, et al. | [[pdf]](https://arxiv.org/pdf/1810.09609.pdf) | 🔜
 CraftAssist Instruction Parsing: Semantic Parsing for a Minecraft Assistant | 4.2019 | Y. Jernite, et al. | [[pdf]](https://arxiv.org/pdf/1905.01978.pdf) | 🔜
+
+## Miscellaneous Articles
+Title | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+Universal Transformers | 5.2019 | M. Dehghani | [[post]](http://mostafadehghani.com/2019/05/05/universal-transformers/) | 🔜
