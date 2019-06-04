@@ -19,3 +19,5 @@ Title | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Universal Transformers | 5.2019 | M. Dehghani | [[Post]](http://mostafadehghani.com/2019/05/05/universal-transformers/) | 🔜
 The Best and Most Current of Modern Natural Language Processing | 5.2019 | V. Sanh | [[Article]](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1) | 🔜
+
+See also my [NAACL 2019 List](https://github.com/Benned-H/Reading_List/blob/master/Topics/NAACL_2019.md).
