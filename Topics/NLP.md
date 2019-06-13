@@ -20,7 +20,7 @@ CraftAssist Instruction Parsing: Semantic Parsing for a Minecraft Assistant | 4.
 ## Miscellaneous
 Title | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
-NLP Evaluation | 11.2015 | B. O’Connor | [[Slides]](https://people.cs.umass.edu/~brenocon/inlp2015/15-eval.pdf) | 🔜
+NLP Evaluation | 11.2015 | B. O’Connor | [[Slides]](https://people.cs.umass.edu/~brenocon/inlp2015/15-eval.pdf) | [[1 here]](https://github.com/Benned-H/Reading_List/blob/master/Notes/NLP_Notes.ipynb)
 Universal Transformers | 5.2019 | M. Dehghani | [[Post]](http://mostafadehghani.com/2019/05/05/universal-transformers/) | 🔜
 The Best and Most Current of Modern Natural Language Processing | 5.2019 | V. Sanh | [[Article]](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1) | 🔜
 
