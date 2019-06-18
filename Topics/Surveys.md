@@ -5,6 +5,7 @@ Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Deep learning | 2015 | Y. LeCun, et al. | [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | 🔜
 An Overview of Multi-Task Learning in Deep Neural Networks | 6.2017 | S. Ruder | [[pdf]](https://arxiv.org/pdf/1706.05098.pdf) | 🔜
+Deep Reinforcement Learning: An Overview | 11.2018 | Y. Li | [[pdf]](https://arxiv.org/pdf/1701.07274.pdf) | 🔜
 
 ## Other Resources
 Title | M.Year | Author(s) | Link | Read? [Notes]
