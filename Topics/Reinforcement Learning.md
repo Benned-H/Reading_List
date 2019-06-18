@@ -3,7 +3,7 @@
 ## Resources
 Resource | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
-Simple Reinforcement Learning with Tensorflow (Series) | 8.2016 | A. Juliani | [[Article 1]](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) | [[Notes]](https://github.com/Benned-H/Summer2019/tree/master/Simple_Reinforcement_Learning_with_Tensorflow)
+Simple Reinforcement Learning with Tensorflow (Series) | 8.2016 | A. Juliani | [[Article 1]](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) | [[Notes]](https://github.com/Benned-H/Summer2019/tree/master/Simple_RL_with_TF)
 Spinning Up in Deep RL | 2018 | OpenAI | [[Intro]](https://spinningup.openai.com/en/latest/user/introduction.html#) | Started 5/11/19
 The UCB1 (Upper Confidence Bound) Multi-Armed Bandit Algorithm | 3.2019 | J. McCaffrey | [[post]](https://jamesmccaffrey.wordpress.com/2019/03/21/the-ucb1-upper-confidence-bound-multi-armed-bandit-algorithm/) | 🔜
 CS234: Reinforcement Learning - Winter 2019 | 5.2019 | E. Brunskill, Stanford | [[Playlist]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | 🔜
