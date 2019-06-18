@@ -3,8 +3,9 @@
 ## General Resources
 Title | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+The syntax of natural language: An online introduction using the Trees program | 4.2007 | B. Santorini, et al. | [[Site]](https://www.ling.upenn.edu/~beatrice/syntax-textbook/) | 🔜
 The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses | 5.2015 | Max Planck Institute for Evolutionary Anthropology | [[pdf]](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) | 🔜
-HG3051: Corpus Linguistics | 2018 | F. Bond, Nanyang Technological University | [[site]](http://compling.hss.ntu.edu.sg/courses/hg3051/) | 🔜
+HG3051: Corpus Linguistics | 2018 | F. Bond, Nanyang Technological University | [[Site]](http://compling.hss.ntu.edu.sg/courses/hg3051/) | 🔜
 
 ## Computational Linguistics Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
