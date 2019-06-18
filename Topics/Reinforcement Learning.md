@@ -11,9 +11,11 @@ CS234: Reinforcement Learning - Winter 2019 | 5.2019 | E. Brunskill, Stanford | 
 ## Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+Human-level control through deep reinforcement learning | 2.2015 | V. Mnih, et al. | [[pdf]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) | 🔜
+Mastering the game of Go with deep neural networks and tree search | 1.2016 | D. Silver, et al. | [[pdf]](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 🔜
 ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning | 9.2016 | M. Kempka, et al. | [[pdf]](https://arxiv.org/pdf/1605.02097.pdf) | 🔜
 Beating the World’s Best at Super Smash Bros. Melee with Deep Reinforcement | 5.2017 | V. FiroMichał Kempkaiu, et al. | [[pdf]](https://arxiv.org/pdf/1702.06230.pdf) | 🔜
 Playing FPS Games with Deep Reinforcement Learning | 1.2018 | G. Lample, et al. | [[pdf]](https://arxiv.org/pdf/1609.05521.pdf) | 🔜
 Aerobatics Control of Flying Creatures via Self-Regulated Learning | 11.2018 | J. Won, et al. | [[site]](http://mrl.snu.ac.kr/research/ProjectAerobatics/Aerobatics.htm) | 🔜
-Deep Reinforcement Learning: An Overview | 11.2018 | Y. Li | [[pdf]](https://arxiv.org/pdf/1701.07274.pdf) | 🔜
 Learning Latent Dynamics for Planning from Pixels | 2.2019 | D. Hafner, et al. | [[pdf]](https://arxiv.org/pdf/1811.04551.pdf) | 🔜
+The Natural Language of Actions | 5.2019 | G. Tennenholtz, et al. | [[pdf]](https://arxiv.org/pdf/1902.01119.pdf) | 🔜
