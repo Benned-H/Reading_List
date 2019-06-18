@@ -8,7 +8,7 @@ Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/
 Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Genetic%20Algorithms.md)  
 Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Neural%20Art.md)  
 Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
-Robot Control [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Robot%20Control.md)  
+Robotics/Grounded Lang. [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/RoboNLP.md)  
 Sequential Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Sequential%20Models.md)  
 
 *Linguistics-related*  
