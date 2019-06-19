@@ -25,3 +25,4 @@ Of course, many others have their own Deep Learning research lists online. Here 
 Excellent topic-sorted, ranked list by *floodsung*: [[Link]](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  
 Topic-sorted list by *ArcherFMY*: [[Link]](https://github.com/ArcherFMY/Paper_Reading_List)  
 Massive list with notes by *dennybritz*: [[Link]](https://github.com/dennybritz/deeplearning-papernotes)  
+AI safety reading list by *Buck Shlegeris*: [[Link]](http://shlegeris.com/ai-safety-reading-list)
