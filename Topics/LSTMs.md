@@ -1,6 +1,6 @@
-# Sequential Models
+# LSTMs
 
-## LSTMs and Music Generation
+## For Music Generation
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 A First Look at Music Composition using LSTM Recurrent Neural Networks | 2002 | D. Eck, et al. | [[pdf]](http://people.idsia.ch/~juergen/blues/IDSIA-07-02.pdf) | [[2 here]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
