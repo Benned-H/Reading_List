@@ -3,8 +3,8 @@
 ## Hand Recognition
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
-A new method for hand segmentation using free-form skin color model | 9.2010 | A. Y. Dawod, et al. | [[pdf]](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=5579466) | 🔜
-HAND SEGMENTATION USING SKIN COLOR AND BACKGROUND INFORMATION | 7.2012 | W. Wang, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6359584) | 🔜
+A new method for hand segmentation using free-form skin color model | 9.2010 | A. Y. Dawod, et al. | [[pdf]](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=5579466) | [[2]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
+HAND SEGMENTATION USING SKIN COLOR AND BACKGROUND INFORMATION | 7.2012 | W. Wang, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6359584) | [[1]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
 Hand segmentation with structured convolutional learning | 2014 | N. Neverova, et al. | [[pdf]](https://nneverova.github.io/npapers/accv2014.pdf) | 🔜
 Deep Learning Based Hand Detection in Cluttered Environment Using Skin Segmentation | 2017 | K. Roy, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8265291) | 🔜
 Deep Learning for hand segmentation in complex backgrounds | 1.2018 | A. Ungureanu, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326319) | 🔜
