@@ -24,7 +24,14 @@ Paper | M.Year | Author(s) | Link | Read? [Notes]
 Tracking the Trackers: An Analysis of the State of the Art in Multiple Object Tracking | 4.2017 | L. Leal-Taixe, et al. | [[pdf]](https://arxiv.org/pdf/1704.02781.pdf) | 🔜
 Learning Adaptive Discriminative Correlation Filters via Temporal Consistency preserving Spatial Feature Selection for Robust Visual Tracking | 7.2018 | T. Xu, et al. | [[pdf]](https://arxiv.org/pdf/1807.11348.pdf) | 🔜
 
-## Miscellaneous
+## Miscellaneous Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 Tex2Shape: Detailed Full Human Body Geometry from a Single Image | 4.2019 | T. Alldieck, et al. | [[pdf]](https://arxiv.org/pdf/1904.08645.pdf) | 🔜
+
+## CV Basics
+Resource | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+Dilation | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) | 🔜
+Erosion | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm) | 🔜
+Understanding Luminance and Chrominance | 1.2013 | S. Sudhakaran | [[Article]](https://wolfcrow.com/understanding-luminance-and-chrominance/) | 🔜
