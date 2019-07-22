@@ -33,6 +33,5 @@ Tex2Shape: Detailed Full Human Body Geometry from a Single Image | 4.2019 | T. A
 ## CV Basics
 Resource | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
-Dilation | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) | 🔜
-Erosion | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm) | 🔜
-Understanding Luminance and Chrominance | 1.2013 | S. Sudhakaran | [[Article]](https://wolfcrow.com/understanding-luminance-and-chrominance/) | 🔜
+Dilation | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm) | ✅[[3]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
+Erosion | 2003 | R. Fisher, et al. | [[Page]](https://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm) | ✅[[4]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
