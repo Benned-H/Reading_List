@@ -6,9 +6,10 @@ Paper | M.Year | Author(s) | Link | Read? [Notes]
 A new method for hand segmentation using free-form skin color model | 9.2010 | A. Y. Dawod, et al. | [[pdf]](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=5579466) | ✅[[2]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
 HAND SEGMENTATION USING SKIN COLOR AND BACKGROUND INFORMATION | 7.2012 | W. Wang, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6359584) | ✅[[1]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
 Fast and Robust Hand Tracking Using Detection-Guided Optimization | 2015 | S. Sridhar, et al. | [[pdf]](https://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/content/FastHandTracker_CVPR2015.pdf) [[Site]](https://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/) | 🔜
+An Overview of Hand Gestures Recognition System Techniques | 2015 | F. Ma'asum, et al. | [[pdf]](https://iopscience.iop.org/article/10.1088/1757-899X/99/1/012012/pdf) | 🔜
 Deep Learning Based Hand Detection in Cluttered Environment Using Skin Segmentation | 2017 | K. Roy, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8265291) | 🔜
 Deep Learning for hand segmentation in complex backgrounds | 1.2018 | A. Ungureanu, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326319) | 🔜
-Analysis of Hand Segmentation in the Wild | 3.2018 | A. U. Khan, et al. | [[pdf]](https://arxiv.org/pdf/1803.03317v2.pdf) | 🔜
+Analysis of Hand Segmentation in the Wild | 3.2018 | A. Khan, et al. | [[pdf]](https://arxiv.org/pdf/1803.03317v2.pdf) | 🔜
 Towards Deep Learning based Hand Keypoints Detection for Rapid Sequential Movements from RGB Images | 4.2018 | S. Gattupalli, et al. | [[pdf]](https://arxiv.org/pdf/1804.01174.pdf) | 🔜
 
 ## Human Action Recognition
