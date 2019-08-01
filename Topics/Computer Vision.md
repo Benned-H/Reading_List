@@ -5,6 +5,7 @@ Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 A new method for hand segmentation using free-form skin color model | 9.2010 | A. Y. Dawod, et al. | [[pdf]](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=5579466) | ✅[[2]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
 HAND SEGMENTATION USING SKIN COLOR AND BACKGROUND INFORMATION | 7.2012 | W. Wang, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6359584) | ✅[[1]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Hand_Recognition.ipynb)
+Vision based hand gesture recognition for human computer interaction: a survey | 11.2012 | S. Rautaray, et al. | [[pdf]](https://search-proquest-com.ezp.lib.rochester.edu/docview/1642137354?pq-origsite=summon) | 🔜
 Fast and Robust Hand Tracking Using Detection-Guided Optimization | 2015 | S. Sridhar, et al. | [[pdf]](https://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/content/FastHandTracker_CVPR2015.pdf) [[Site]](https://handtracker.mpi-inf.mpg.de/projects/FastHandTracker/) | 🔜
 An Overview of Hand Gestures Recognition System Techniques | 2015 | F. Ma'asum, et al. | [[pdf]](https://iopscience.iop.org/article/10.1088/1757-899X/99/1/012012/pdf) | 🔜
 Deep Learning Based Hand Detection in Cluttered Environment Using Skin Segmentation | 2017 | K. Roy, et al. | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8265291) | 🔜
