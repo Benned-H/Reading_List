@@ -27,3 +27,8 @@ Multi-modal Discriminative Model for Vision-and-Language Navigation | 6.2019 | H
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
 SpatialNet: A Declarative Resource for Spatial Relations | 6.2019 | M. Ulinski, et al. | [[pdf]](https://www.aclweb.org/anthology/W19-1607) | 🔜
+
+## Misc. Articles
+Resource | M.Year | Author(s) | Link | Read? [Notes]
+--- | --- | --- | --- | ---
+Machine learning advances human-computer interaction | 3.2017 | L. Valich | [[Article]](https://www.rochester.edu/newscenter/machine-learning-advances-human-computer-interaction/) | 🔜
