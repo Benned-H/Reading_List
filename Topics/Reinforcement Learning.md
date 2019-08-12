@@ -7,6 +7,7 @@ Simple Reinforcement Learning with Tensorflow (Series) | 8.2016 | A. Juliani | [
 Spinning Up in Deep RL | 2018 | OpenAI | [[Intro]](https://spinningup.openai.com/en/latest/user/introduction.html#) | Started 5/11/19
 The UCB1 (Upper Confidence Bound) Multi-Armed Bandit Algorithm | 3.2019 | J. McCaffrey | [[post]](https://jamesmccaffrey.wordpress.com/2019/03/21/the-ucb1-upper-confidence-bound-multi-armed-bandit-algorithm/) | 🔜
 CS234: Reinforcement Learning - Winter 2019 | 5.2019 | E. Brunskill, Stanford | [[Playlist]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | 🔜
+Reinforcement Learning | 2019 | C. Isbell, et al. | [[Site]](https://www.udacity.com/course/reinforcement-learning--ud600) | 🔜
 
 ## Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
