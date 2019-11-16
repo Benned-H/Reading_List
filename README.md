@@ -2,6 +2,9 @@
 A personal reading list for papers and resources I'd like to read in the future.
 
 ## Topics
+*Robotics-related*   
+Robotics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/RoboNLP.md)
+
 *Machine Learning-related*  
 Computer Vision [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Computer%20Vision.md)  
 Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)  
@@ -12,8 +15,7 @@ LSTMs [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/LSTMs
 
 *Linguistics-related*  
 Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
-NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)  
-Robotics/Grounded Lang. [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/RoboNLP.md)  
+NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)    
 
 *Other Topics*  
 Math [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Mathematics.md)  
