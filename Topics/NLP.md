@@ -12,6 +12,7 @@ CS224U: Natural Language Understanding | 5.2019 | B. MacCartney, et al. | [[Site
 ## Core Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+Sequence to Sequence Learning with Neural Networks | 12.2014 | Ilya Sutskever, Oriol Vinyals, Quoc V. Le | [[pdf]](https://arxiv.org/pdf/1409.3215.pdf) | 🔜
 Semi-supervised Sequence Learning | 11.2015 | Andrew M. Dai, Quoc V. Le | [[pdf]](https://arxiv.org/pdf/1511.01432.pdf) | 🔜
 Attention Is All You Need | 12.2017 | A. Vaswani, et al. | [[pdf]](https://arxiv.org/pdf/1706.03762.pdf) | 🔜
 Deep contextualized word representations | 3.2018 | M. Peters, et al. | [[pdf]](https://arxiv.org/pdf/1802.05365.pdf) | 🔜
