@@ -4,6 +4,8 @@ Combination thanks to SpLU-RoboNLP 2019
 ## General Papers
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+Generalized Grounding Graphs: A Probabilistic Framework for Understanding Grounded Language | 5.2013 | Thomas Kollar, et al. | [[pdf]](http://cs.brown.edu/courses/csci2951-k/papers/kollar13.pdf) | 🔜⭐
+Learning Semantic Maps from Natural Language Descriptions | 6.2013 | Matthew R. Walter, et al. | [[pdf]](https://cs.brown.edu/people/stellex/publications/walter13.pdf) | 🔜
 Learning to Parse Natural Language Commands to a Robot Control System | 2013 | C. Matuszek, et al. | [[pdf]](https://homes.cs.washington.edu/~lsz/papers/mhzf-iser12.pdf) | 🔜
 Asking for Help Using Inverse Semantics | 2014 | S. Tellex, et al. | [[pdf]](http://cs.brown.edu/people/stellex/publications/tellex14.pdf) | 🔜
 A Natural Language Planner Interface for Mobile Manipulators | 2014 | T. Howard, et al. | [[pdf]](http://groups.csail.mit.edu/rrg/papers/Howard_ICRA14.pdf) | 🔜⭐
@@ -17,9 +19,11 @@ Learning from Implicit Information in Natural Language Instructions for Robotic 
 ## Grounded Language
 Paper | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+The Symbol Grounding Problem | 1999 | Stevan Harnad | [[pdf]](https://eprints.soton.ac.uk/250382/1/symgro.pdf) | 🔜
 SpatialNet: A Declarative Resource for Spatial Relations | 6.2019 | M. Ulinski, et al. | [[pdf]](https://www.aclweb.org/anthology/W19-1607) | 🔜
 
 ## Misc. Articles
 Resource | M.Year | Author(s) | Link | Read? [Notes]
 --- | --- | --- | --- | ---
+The Chinese Room Argument | 4.2014 | David Cole | [[Article]](https://plato.stanford.edu/entries/chinese-room/#1) | 🔜
 Machine learning advances human-computer interaction | 3.2017 | L. Valich | [[Article]](https://www.rochester.edu/newscenter/machine-learning-advances-human-computer-interaction/) | 🔜
