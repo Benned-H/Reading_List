@@ -19,6 +19,7 @@ Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics
 NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)    
 
 *Other Topics*  
+How to Research [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Research.md)   
 Math [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Mathematics.md)  
 Rendering [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Rendering.md)  
 Surveys [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Surveys.md)
