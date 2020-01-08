@@ -2,11 +2,11 @@
 A personal reading list for papers and resources I'd like to read in the future.
 
 ## Topics
-*Robotics-related*   
+*Robotics*   
 NLU for Robotics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/RoboNLP.md)   
 Navigation [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Navigation.md)
 
-*Machine Learning-related*  
+*Artificial Intelligence*  
 Computer Vision [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Computer%20Vision.md)  
 Generative Models [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Generative%20Models.md)  
 Genetic Algorithms [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Genetic%20Algorithms.md)  
@@ -14,9 +14,9 @@ Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/
 Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
 LSTMs [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/LSTMs.md)  
 
-*Linguistics-related*  
+*NLP-related*  
 Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
-NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)    
+General NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)    
 
 *Other Topics*  
 How to Research [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Research.md)   

@@ -34,5 +34,3 @@ Title | M.Year | Author(s) | Link | Read? [Notes]
 NLP Evaluation | 11.2015 | B. O’Connor | [[Slides]](https://people.cs.umass.edu/~brenocon/inlp2015/15-eval.pdf) | [[1 here]](https://github.com/Benned-H/Reading_List/blob/master/Notes/NLP_Notes.ipynb)
 The Illustrated BERT, ELMo, and co. | 12.2018 | Jay Alammar | [[Article]](http://jalammar.github.io/illustrated-bert/) | 🔜
 Universal Transformers | 5.2019 | M. Dehghani | [[Post]](http://mostafadehghani.com/2019/05/05/universal-transformers/) | 🔜
-
-See also my [NAACL 2019 List](https://github.com/Benned-H/Reading_List/blob/master/Topics/NAACL_2019.md).
