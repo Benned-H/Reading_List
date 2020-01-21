@@ -14,7 +14,7 @@ Neural Art [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/
 Reinforcement Learning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Reinforcement%20Learning.md)  
 LSTMs [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/LSTMs.md)  
 
-*NLP-related*
+*NLP-related*   
 Commonsense Reasoning [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Commonsense.md)    
 General NLP [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/NLP.md)    
 Linguistics [[Link]](https://github.com/Benned-H/Reading_List/blob/master/Topics/Linguistics.md)  
