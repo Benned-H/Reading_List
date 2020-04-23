@@ -1,6 +1,0 @@
-# General AI
-
-Paper | M.Year | Author(s) | Link | Read? [Notes]
---- | --- | --- | --- | ---
-POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer | 1.2019 | Rui Wang, et al. | [[post]](https://eng.uber.com/poet-open-ended-deep-learning/) | Soon...
-On the Measure of Intelligence | 11.2019 | François Chollet | [[pdf]](https://arxiv.org/pdf/1911.01547.pdf) | Soon...
