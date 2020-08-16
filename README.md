@@ -1,27 +1,14 @@
 # Reading List
-During my undergraduate studies so far, I've come across a number of fascinating topics. This document stores the myriad research that's caught my eye.
+A central place to track the research I'm reading and the notes from what I've read previously.
 
 ## General Topics
 [*Robotics*](#robotics)  
 [*Natural Language Processing*](#nlp)  
 [*Reinforcement Learning*](#rl)  
-[*Computational Music*](#music)  
 [*Computer Vision*](#cv)  
 [*Anything Else*](#misc)
 
 ## <a name="robotics"></a> Robotics
-### Localization
-Paper | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-The Next Best Touch for Model-Based Localization | 5.2013 | Paul Hebert, et al. | [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7014&rep=rep1&type=pdf) |
-
-### Visual Navigation
-Paper | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-Visual Navigation for Mobile Robots: a Survey | 2008 | F. Bonin-Font, et al. | [[pdf]](http://www.ent.mrt.ac.lk/~ranga/courses/en5204_2013/BONINF08_Visual_Navigation_for_Mobile_Robots_a_Survey.pdf) |
-Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning | 9.2016 | Y. Zhu, et al. | [[pdf]](https://arxiv.org/pdf/1609.05143.pdf) |
-Navigation by Imitation in a Pedestrian-Rich Environment | 11.2018 | Jing Bi, et al. | [[pdf]](https://arxiv.org/pdf/1811.00506.pdf) |
-Cognitive Mapping and Planning for Visual Navigation | 2.2019 | S. Gupta, et al. | [[pdf]](https://arxiv.org/pdf/1702.03920.pdf) | [[1]](https://github.com/Benned-H/Reading_List/blob/master/Notes/Visual_Navigation_Notes.ipynb)
 
 ### Spatial Language Understanding
 Paper | M.Year | Author(s) | Link | Read? [Notes]
@@ -51,18 +38,19 @@ Paper | M.Year | Author(s) | Link | [Notes]
 Solving Rubik’s Cube with a Robot Hand | 10.2019 | OpenAI et al. | [[pdf]](https://arxiv.org/pdf/1910.07113.pdf) |
 
 ## <a name="nlp"></a> NLP
-### General Resources
-Title | M.Year | Author(s) | Link
+
+### General Surveys
+Paper | M.Year | Author(s) | Link | [Notes]
 --- | --- | --- | --- | ---
-Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition | 6.2007 | D. Jurafsky, et al. | [[2nd]](http://santini.se/teaching/ml/2014/JurafskyMartinSpeechAndLanguageProcessing2ed_draft%202007.pdf) [[3rd]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
-The Handbook of Computational Linguistics and Natural Language Processing | 2010 | A. Clark, et al. | [[pdf]](http://course.duruofei.com/wp-content/uploads/2015/05/Clark_Computational-Linguistics-and-Natrual-Language-Processing.pdf)
+An Overview of Multi-Task Learning in Deep Neural Networks | 6.2017 | S. Ruder | [[pdf]](https://arxiv.org/pdf/1706.05098.pdf) |
+A Survey of Cross-lingual Word Embedding Models | 8.2019 | Sebastian Ruder, et al. | [[pdf]](https://www.jair.org/index.php/jair/article/view/11640/26511) |
 
 ### Noteworthy Architectures
 Paper | M.Year | Author(s) | Link | [Notes]
 --- | --- | --- | --- | ---
 Sequence to Sequence Learning with Neural Networks | 12.2014 | Ilya Sutskever, Oriol Vinyals, Quoc V. Le | [[pdf]](https://arxiv.org/pdf/1409.3215.pdf) |
 Semi-supervised Sequence Learning | 11.2015 | Andrew M. Dai, Quoc V. Le | [[pdf]](https://arxiv.org/pdf/1511.01432.pdf) |
-Attention Is All You Need | 12.2017 | A. Vaswani, et al. | [[pdf]](https://arxiv.org/pdf/1706.03762.pdf) |
+Attention Is All You Need | 12.2017 | A. Vaswani, et al. | [[pdf]](https://arxiv.org/pdf/1706.03762.pdf) | ⭐
 Deep contextualized word representations | 3.2018 | M. Peters, et al. | [[pdf]](https://arxiv.org/pdf/1802.05365.pdf) |
 Universal Language Model Fine-tuning for Text Classification | 5.2018 | Jeremy Howard, Sebastian Ruder | [[pdf]](https://arxiv.org/pdf/1801.06146.pdf) |
 Language Models are Unsupervised Multitask Learners | 2018 | Alec Radford, et al. | [[pdf]](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) | 
@@ -77,38 +65,18 @@ GLUE: A Multi-task Benchmark and Analysis Platform for Natural Language Understa
 ### Commonsense Reasoning
 Paper | M.Year | Author(s) | Link | [Notes]
 --- | --- | --- | --- | ---
-PLOW: A Collaborative Task Learning Agent | 2007 | James Allen, et al. | [[pdf]](https://www.cs.rochester.edu/research/cisd/pubs/2007/allen-et-al-plow-aaai2007.pdf) | 
 Logical Formalizations of Commonsense Reasoning : A Survey | 8.2017 | Ernest Davis | [[pdf]](https://www.jair.org/index.php/jair/article/view/11076/26258) |
-A Simple Method for Commonsense Reasoning | 9.2019 | Trieu H. Trinh, et al. | [[pdf]](https://arxiv.org/pdf/1806.02847.pdf) |
 Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches | 11.2019 | Shane Storks, et al. | [[pdf]](https://arxiv.org/pdf/1904.01172.pdf) |
 
-### Cross-Lingual Meaning Representations
-Paper | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-Cross-lingual Abstract Meaning Representation Parsing | 6.2018 | Marco Damonte, Shay B. Cohen | [[pdf]](https://www.aclweb.org/anthology/N18-1104.pdf) |
-What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties | 7.2018 | Alexis Conneau, et al. | [[pdf]](https://arxiv.org/pdf/1805.01070.pdf) |
-Phrase-Based & Neural Unsupervised Machine Translation | 8.2018 | Guillaume Lample, et al. | [[pdf]](https://arxiv.org/pdf/1804.07755.pdf) |
-A Survey of Cross-lingual Word Embedding Models | 8.2019 | Sebastian Ruder, et al. | [[pdf]](https://www.jair.org/index.php/jair/article/view/11640/26511) |
-Refinement of Unsupervised Cross-Lingual Word Embeddings | 2.2020 | Magdalena Biesialska, Marta R. Costa-jussa | [[pdf]](https://arxiv.org/pdf/2002.09213.pdf) | ⭐
-
-## <a name="music"></a> Computational Music
-### Music Generation
-Paper | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-A First Look at Music Composition using LSTM Recurrent Neural Networks | 2002 | D. Eck, et al. | [[pdf]](http://people.idsia.ch/~juergen/blues/IDSIA-07-02.pdf) | [[2]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-Learning to Create Jazz Melodies Using Deep Belief Nets | 2010 | G. Bickerman, et al. | [[pdf]](https://www.cs.hmc.edu/~keller/jazz/improvisor/ICCCX-Bickerman-Bosley-Swire-Keller.pdf) | [[3]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-Composing a melody with long-short term memory (LSTM) Recurrent Neural Networks | 2.2016 | K. Lackner | [[pdf]](https://pdfs.semanticscholar.org/f707/ff253dc44ffa1e15f7ad19d75473a3ddecac.pdf) | [[4]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-Text-based LSTM networks for Automatic Music Composition | 4.2016 | K. Choi, et al. | [[pdf]](https://arxiv.org/pdf/1604.05358.pdf) | [[1]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-Music Composition using Recurrent Neural Networks | 2017 | N. Agarwala, et al. | [[pdf]](https://pdfs.semanticscholar.org/c933/79a401dd159fc0c90eab44c43d07286b227e.pdf) | [[6]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-JamBot: Music Theory Aware Chord Based Generation of Polyphonic Music with LSTMs | 2017 | G. Brunner, et al. | [[pdf]](https://www.tik.ee.ethz.ch/file/7c6a36714f7b64306d2f5b06e14da5c0/JamBot_CameraReady.pdf) | [[7]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
-Music Generation from MIDI datasets | 2018 | M. Hilscher, et al. | [[pdf]](https://neuro.cs.ut.ee/wp-content/uploads/2018/02/MIDI_music.pdf) | [[5]](https://github.com/Benned-H/LSTMjazz/blob/master/Research/Summaries.ipynb)
 
 ## <a name="rl"></a> RL
 ### General Resources
 Resource | M.Year | Author(s) | Link | [Notes]
 --- | --- | --- | --- | ---
+Deep Reinforcement Learning: An Overview | 11.2018 | Y. Li | [[pdf]](https://arxiv.org/pdf/1701.07274.pdf) |
 Spinning Up in Deep RL | 2018 | OpenAI | [[intro]](https://spinningup.openai.com/en/latest/user/introduction.html#) |
 CS234: Reinforcement Learning - Winter 2019 | 5.2019 | E. Brunskill, Stanford | [[playlist]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) |
+
 
 ### Noteworthy Papers
 Paper | M.Year | Author(s) | Link | [Notes]
@@ -158,34 +126,3 @@ Hand Segmentation Using Skin Color and Background Information | 7.2012 | W. Wang
 Paper | M.Year | Author(s) | Link | [Notes]
 --- | --- | --- | --- | ---
 Deep learning | 2015 | Y. LeCun, et al. | [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) |
-An Overview of Multi-Task Learning in Deep Neural Networks | 6.2017 | S. Ruder | [[pdf]](https://arxiv.org/pdf/1706.05098.pdf) |
-Deep Reinforcement Learning: An Overview | 11.2018 | Y. Li | [[pdf]](https://arxiv.org/pdf/1701.07274.pdf) |
-
-### General AI
-Paper | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-On the Measure of Intelligence | 11.2019 | François Chollet | [[pdf]](https://arxiv.org/pdf/1911.01547.pdf) |
-
-### How to Research
-Resource | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-How to read a research paper | 3.2010 | Michael Mitzenmacher | [[pdf]](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf) |
-How to Read a Paper | 2.2016 | S. Keshav | [[pdf]](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) |
-How to (seriously) read a scientific paper | 3.2016 | Elisabeth Pain | [[article]](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) |
-
-### Statistics Readings
-Resource | Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | ---
-Bootstrap confidence intervals | ??? | B. Dransfield, et al. | [[page]](https://influentialpoints.com/Training/bootstrap_confidence_intervals-principles-properties-assumptions.htm) |
-Visual Information Theory | 10.2015 | C. Olah | [[article]](https://colah.github.io/posts/2015-09-Visual-Information/) |
-Kullback-Leibler Divergence Explained | 5.2017 | Will Kurt | [[article]](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) |
-
-### Rendering
-Topic | Title | M.Year | Author(s) | Link | [Notes]
---- | --- | --- | --- | --- | ---
-Marching Cubes | Marching Cubes: A High Resolution 3D Surface Construction Algorithm | 7.1987 | W. Lorensen, et al. | [[pdf]](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf) |
-Marching Cubes | Polygonising a scalar field | 5.1994 | P. Bourke | [[page]](http://paulbourke.net/geometry/polygonise/) |
-Marching Cubes | Chapter 1. Generating Complex Procedural Terrains Using the GPU | 2007 | R. Geiss, NVIDIA Corporation | [[page]](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch01.html) |
-Smooth Minimum | Smooth Minimum | 2013 | I. Quilez | [[page]](http://www.iquilezles.org/www/articles/smin/smin.htm) |
-Ray Marching | Distance Functions | ??? | I. Quilez | [[page]](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) |
-Ray Marching | Ray Marching and Signed Distance Functions | 7.2016 | J. Wong | [[page]](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/#the-raymarching-algorithm) |
